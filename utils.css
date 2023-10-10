@@ -1,0 +1,29 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital@1&family=Young+Serif&display=swap');
+
+
+.text-center {
+    text-align: center;
+    margin-bottom: 60px;
+    font-family: 'Young Serif', serif;
+    font-weight: 1000;
+    font-size: xx-large;
+
+}
+
+.mx-auto{
+    margin-top: 50px;
+    margin:auto;
+    padding-bottom: 25px;
+}
+.flex-col {
+    flex-direction: column;
+}
+
+.flex{
+    display: flex;
+}
+
+.item-center{
+    align-items: center;
+}
